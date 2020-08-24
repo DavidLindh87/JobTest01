@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Bluescreen\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bluescreen\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.exe
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.deps.json
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.runtimeconfig.json
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.runtimeconfig.dev.json
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.dll
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\bin\Debug\netcoreapp3.1\DevTask.pdb
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csprojAssemblyReference.cache
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.AssemblyInfoInputs.cache
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.AssemblyInfo.cs
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.csproj.CoreCompileInputs.cache
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.dll
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.pdb
+C:\Users\Bluescreen\Desktop\WinDevTaskA\JobTest01\DevTask\DevTask\obj\Debug\netcoreapp3.1\DevTask.genruntimeconfig.cache
